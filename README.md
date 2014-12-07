@@ -1,5 +1,5 @@
 ## Christmas Door Decoration HTML 
 
-# Command Line Installation
+### Command Line Installation
 - `bower install`
 
