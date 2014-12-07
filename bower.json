@@ -1,0 +1,33 @@
+{
+  "name": "cdoor",
+  "version": "0.0.0",
+  "authors": [
+    "LeslieUri <valorbreak@gmail.com>"
+  ],
+  "description": "html pages for raspberry door",
+  "main": "assets/css/main.css",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "javascript",
+    "door",
+    "raspberry",
+    "pi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1"
+  }
+}
