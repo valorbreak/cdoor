@@ -1,4 +1,4 @@
-$(function() {
+/*$(function() {
     // Change this value to adjust the amount of blur
     var BLUR_RADIUS = 100;
 
@@ -18,7 +18,7 @@ $(function() {
     image.onload = function() {
         drawBlur();
     }
-});
+});*/
 
 
 
