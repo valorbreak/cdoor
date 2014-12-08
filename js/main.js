@@ -37,11 +37,15 @@ $(document).ready(function(){
     // Rotating Images
 
     var images =
-        [
-            'assets/img/Boston.jpg',
-            'assets/img/christmas-hd-wallpaper-vorjrqbx.jpg',
-            'assets/img/druplicon.small_.png'
-        ];
+    [
+      'assets/img/christmas-hd-wallpaper-vorjrqbx.jpg',
+      'assets/img/santa-drupi.small_.png',
+      'assets/img/merry-Gifmas.gif',
+      'assets/img/snowmanclr.gif',
+      'assets/img/ccdlftree.gif',
+      'assets/img/santa_search_md_wht.gif',
+      'assets/img/Santa021.gif'
+    ];
 
     $('img.rotatingImage').attr({"src": images[Math.floor(Math.random() * images.length)]});
 
