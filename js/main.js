@@ -40,8 +40,7 @@ $(document).ready(function(){
         [
             'assets/img/Boston.jpg',
             'assets/img/christmas-hd-wallpaper-vorjrqbx.jpg',
-            'assets/img/druplicon.small_.png',
-            'assets/img/inconceivable.jpg'
+            'assets/img/druplicon.small_.png'
         ];
 
     $('img.rotatingImage').attr({"src": images[Math.floor(Math.random() * images.length)]});
