@@ -39,7 +39,7 @@ $(document).ready(function(){
     var images =
     [
       'assets/img/christmas-hd-wallpaper-vorjrqbx.jpg',
-      'assets/img/santa-drupi.small_.png',
+      'assets/img/santa-drupi.png',
       'assets/img/merry-Gifmas.gif',
       'assets/img/snowmanclr.gif',
       'assets/img/ccdlftree.gif',
