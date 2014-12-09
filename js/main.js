@@ -26,13 +26,13 @@
 $(document).ready(function(){
 
     // Snow
-/*    $.fn.snow({
+    $.fn.snow({
         minSize: 5, // Minimumsize of the snowflake (px)
         maxSize: 25, // Maximum size of the snowflake (px)
         newOn: 350, // Frequency they fall (ms)
         flakeColor: '#FFF' // Colour of the snowflake
     });
-*/
+
 
     // Rotating Images
 
